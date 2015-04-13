@@ -5,7 +5,9 @@ public class doorAnimation : MonoBehaviour {
 	
 	public GameObject door;
 	public bool isOpen = false;
-	
+
+	//Animation that opens and closes the home doors on mouse click.
+
 	void OnMouseDown(){
 		
 		if(!this.isOpen){
@@ -22,15 +24,6 @@ public class doorAnimation : MonoBehaviour {
 		}
 		
 	}
-	
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
+
 }
 

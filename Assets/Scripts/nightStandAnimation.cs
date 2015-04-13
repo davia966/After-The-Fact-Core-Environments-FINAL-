@@ -6,16 +6,18 @@ public class nightStandAnimation : MonoBehaviour {
 	public GameObject drawer;
 	public bool isOpen = false;
 
+	//Aninimation that opens and closes the nightstand drawer on mouse click.
+
 	void OnMouseDown(){
 
 		if(!this.isOpen){
 
-			drawer.GetComponent<Animation>().Play("open");
+			drawer.GetComponent<Animation>().Play("Night Stand Open");
 
 			this.isOpen = true;
 
 		}else{
-			drawer.GetComponent<Animation>().Play("close");
+			drawer.GetComponent<Animation>().Play("Night Stand Close");
 
 			this.isOpen = false;
 
@@ -23,13 +25,4 @@ public class nightStandAnimation : MonoBehaviour {
 
 	}
 
-	// Use this for initialization
-	void Start () {
-	
-	}
-	
-	// Update is called once per frame
-	void Update () {
-	
-	}
 }

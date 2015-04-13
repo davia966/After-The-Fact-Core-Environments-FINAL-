@@ -49,6 +49,7 @@
      <Compile Include="Assets\Scripts\cameraFollow.cs" />
      <Compile Include="Assets\Scripts\doorAnimation.cs" />
      <Compile Include="Assets\Scripts\nightStandAnimation.cs" />
+     <Compile Include="Assets\Scripts\topDeskInteraction.cs" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
      <None Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
      <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
