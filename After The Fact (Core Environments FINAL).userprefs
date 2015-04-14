@@ -1,8 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/deskAnimator.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/topDeskInteraction.cs">
     <Files>
-      <File FileName="Assets/Scripts/deskAnimator.cs" Line="7" Column="2" />
+      <File FileName="Assets/Scripts/topDeskInteraction.cs" Line="25" Column="6" />
+      <File FileName="Assets/Scripts/nightStandAnimation.cs" Line="8" Column="2" />
+      <File FileName="Assets/Scripts/doorAnimation.cs" Line="27" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
